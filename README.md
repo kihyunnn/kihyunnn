@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0b3d91,100:000000&height=300&section=header&text=Welcome%20to%20My%20Universe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0b3d91,100:000000&height=300&section=header&text=Welcome%20to%20My%20Universe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" style="width: 100%;" />
 
 		
 <br>
@@ -46,6 +46,4 @@
 <br><br>
 
 ![Kihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kihyunnn&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kihyunnn&layout=compact&theme=dark)](https://github.com/kihyunnn)
-<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mable0927)](https://solved.ac/mable0927/)
-</div>
