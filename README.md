@@ -54,5 +54,14 @@
 
 <br><br>
 
-![Kihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kihyunnn&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kihyunnn&layout=compact&theme=dark)](https://github.com/kihyunnn)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mable0927)](https://solved.ac/mable0927/)
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kihyunnn&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihyunnn&layout=compact&theme=dark"/>
+</div>
+
+<div align="center">
+    <a href="https://solved.ac/mable0927/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mable0927" alt="Solved.ac Profile">
+    </a>
+</div>
+
