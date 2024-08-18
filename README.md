@@ -2,7 +2,30 @@
 
 		
 <br>
+<div align="center">
+<h3><b>🛠 Tech Stack 🛠</h3>
+	
+<h4><b>Languages & Framework</b></h4>
+<p> 
+<!-- <img src="https://img.shields.io/badge/java-C20000?style=flat&logo=java&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"> -->
+<br>
+<img src="https://img.shields.io/badge/Python-033963?style=flat&logo=Python&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF">
+<br>
+<!-- <img src="https://img.shields.io/badge/MySQL-005A9C?style=flat&logo=MySQL&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> -->
+	</div>
+ <br>
+ <div align=center>
+	<h3>📫Contect Me📫</h3>
+	<a href="https://kihyunnnnn.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
+<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <br>
+</div>
 
+ ---
+ 
 <h3> 📚 Experience 📚</h3>
 
 <h5>인하대학교 정보통신공학과 전공 > 2021.03 - ...</h5>
@@ -18,15 +41,11 @@
 	- SITE 연합 미니 아이코어 창업 대회 대상 
 <br>
 
-<div align=center>
-	<h3>📫Contect Me📫</h3>
-	<a href="https://kihyunnnnn.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
-<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-    <br>
-</div>
+
 
 <br><br>
 
 ![Kihyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kihyunnn&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kihyunnn&layout=compact&theme=dark)](https://github.com/kihyunnn)
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mable0927)](https://solved.ac/mable0927/)
-
+</div>
