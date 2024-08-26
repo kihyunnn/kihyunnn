@@ -35,20 +35,23 @@
 
  ---
  
-<h3> 📚 Experience 📚</h3>
+### 📚 Experience 📚
 
-- 인하대학교 정보통신공학과 전공 > 2021.03 - ...
-- 인하대학교 멋쟁이사자처럼 12기 BE 파트 > 2024.03 - ...
-- 인하대학교 인하벤처클럽 27.5기 스타트업 팀 수료 > 2023.09 - 2023.12
+- Major in Information and Communication Engineering, Inha University > March 2021 - Present
+- Backend Developer, LikeLion 12th Generation, Inha University > March 2024 - Present
+- Completed Startup Team, Inha Venture Club 27.5th Generation, Inha University> September 2023 - December 2023
 
 <br>
-<h3>🏆Awards&Experience🏆</h3>
 
-- **2023년**
-	- 구글 솔루션 첼린지 참가(기획 및 FE)
-- **2024년**
-	- SITE 연합 미니 아이코어 창업 대회 대상 
+### 🏆 Awards & Achievements 🏆
+
+- **2023**
+  - Participated in Google Solution Challenge (Planning & Frontend)
+- **2024**
+  - Grand Prize in SITE Union Mini i-Core Startup Competition
+
 <br>
+
 
 
 
