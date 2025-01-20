@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0b3d91,100:000000&height=300&section=header&text=Welcome%20to%20My%20Universe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" style="width: 100%;" />
+ㅋ<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0b3d91,100:000000&height=300&section=header&text=Welcome%20to%20My%20Universe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" style="width: 100%;" />
 
 		
 <br>
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF">
 
 <br>
-//<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF">
+<!--<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF">-->
 <br>
 <!-- <img src="https://img.shields.io/badge/MySQL-005A9C?style=flat&logo=MySQL&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> -->
