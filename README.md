@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF">
 
 <br>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF">
+//<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF">
 <br>
 <!-- <img src="https://img.shields.io/badge/MySQL-005A9C?style=flat&logo=MySQL&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> -->
