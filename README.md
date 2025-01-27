@@ -1,4 +1,4 @@
-ㅋ<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0b3d91,100:000000&height=300&section=header&text=Welcome%20to%20My%20Universe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" style="width: 100%;" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0b3d91,100:000000&height=300&section=header&text=Welcome%20to%20My%20Universe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" style="width: 100%;" />
 
 		
 <br>
