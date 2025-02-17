@@ -1,25 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0b3d91,100:000000&height=300&section=header&text=Welcome%20to%20My%20Universe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" style="width: 100%;" />
 
-		
 <br>
 <div align="center">
 <h3><b>🛠 Tech Stack 🛠</h3>
 	
 <h4><b>Languages & Framework</b></h4>
 <p> 
-<!-- <img src="https://img.shields.io/badge/java-C20000?style=flat&logo=java&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"> -->
 <br>
 <img src="https://img.shields.io/badge/Python-033963?style=flat&logo=Python&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF">
 
 <br>
-<!--<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=FFFFFF">-->
 <br>
-<!-- <img src="https://img.shields.io/badge/MySQL-005A9C?style=flat&logo=MySQL&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> -->
-	</div>
- <br>
+ </div>
  
  <div align=center>
 	<h3>📫Contect Me📫</h3>
@@ -53,19 +46,12 @@
 
 <br>
 
-
-
-
-<br><br>
-
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kihyunnn&show_icons=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihyunnn&layout=compact&theme=dark"/>
-</div>
-
-<div align="center">
     <a href="https://solved.ac/mable0927/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mable0927" alt="Solved.ac Profile">
     </a>
 </div>
 
+<br><br>
