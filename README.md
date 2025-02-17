@@ -37,9 +37,10 @@
  
 ### 📚 Experience 📚
 
-- Major in Information and Communication Engineering, Inha University > March 2021 - Present
-- Backend Developer, LikeLion 12th Generation, Inha University > March 2024 - Present
+- Major in Electrical and Electronics Engineering, Inha University > March 2021 - Present
+- Backend Developer, LikeLion 12th Generation, Inha University > March 2024 - December 2024
 - Completed Startup Team, Inha Venture Club 27.5th Generation, Inha University> September 2023 - December 2023
+- Leader, LikeLion 13th Generation, Inha University > January 2025 - Present
 
 <br>
 
