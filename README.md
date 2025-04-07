@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0b3d110 91,100:000000&height=300&section=header&text=Welcome%20to%20My%20Universe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" style="width: 100%;" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0b3d91,100:000000&height=300&section=header&text=Welcome%20to%20My%20Universe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" style="width: 100%;" />
 
 <br>
 <div align="center">
@@ -55,9 +55,3 @@
 </div>
 
 <br><br>
-
-<div align="center">
-    <a href="https://gist.github.com/kihyunnn/e41c8519f04af613553343f48a5fa117">
-        <img src="https://gist.github.com/kihyunnn/e41c8519f04af613553343f48a5fa117.png" alt="Commit Time Statistics">
-    </a>
-</div>
