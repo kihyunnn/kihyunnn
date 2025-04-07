@@ -11,9 +11,18 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF">
 
 <br>
-<br>
  </div>
- 
+<br>
+<div align="center">
+<h3><b>📚 Learning 📚</h3>
+<p>
+  <img src="https://img.shields.io/badge/Verilog-007FFF?style=flat&logo=verilog&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000">
+  
+</p>
+</div>
+<br>
  <div align=center>
 	<h3>📫Contect Me📫</h3>
 	<a href="https://kihyunnnnn.tistory.com/" target="_blank">
@@ -49,9 +58,15 @@
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kihyunnn&show_icons=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihyunnn&layout=compact&theme=dark"/>
-    <a href="https://solved.ac/mable0927/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mable0927" alt="Solved.ac Profile">
-    </a>
 </div>
 
 <br><br>
+
+<div align="center">
+    <a href="https://solved.ac/mable0927/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mable0927" alt="Solved.ac Profile">
+    </a>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=kihyunnn&theme=blueberry&date_format=%5BY.%5Dn.j" alt="GitHub Streak">
+    </a>
+</div>
