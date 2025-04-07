@@ -64,9 +64,9 @@
 
 <div align="center">
     <a href="https://solved.ac/mable0927/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mable0927" alt="Solved.ac Profile">
+        <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mable0927" alt="Solved.ac Profile">
     </a>
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=kihyunnn&theme=blueberry&date_format=%5BY.%5Dn.j" alt="GitHub Streak">
+        <img height="180em" src="https://streak-stats.demolab.com/?user=kihyunnn&theme=blueberry&date_format=%5BY.%5Dn.j" alt="GitHub Streak">
     </a>
 </div>
