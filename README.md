@@ -9,6 +9,7 @@
 <br>
 <img src="https://img.shields.io/badge/Python-033963?style=flat&logo=Python&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Verilog-007FFF?style=flat&logo=verilog&logoColor=FFFFFF">
 
 <br>
  </div>
@@ -16,7 +17,6 @@
 <div align="center">
 <h3><b>📚 Learning 📚</h3>
 <p>
-  <img src="https://img.shields.io/badge/Verilog-007FFF?style=flat&logo=verilog&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000">
   
