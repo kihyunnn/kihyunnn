@@ -58,17 +58,28 @@
 <br>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kihyunnn&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihyunnn&layout=compact&theme=dark"/>
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kihyunnn&show_icons=true&theme=radical"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihyunnn&layout=compact&theme=dark"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://solved.ac/mable0927/">
+          <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mable0927" alt="Solved.ac Profile">
+        </a>
+      </td>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img height="180em" src="https://streak-stats.demolab.com/?user=kihyunnn&theme=blueberry&date_format=%5BY.%5Dn.j" alt="GitHub Streak">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br><br>
 
-<div align="center">
-    <a href="https://solved.ac/mable0927/">
-        <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mable0927" alt="Solved.ac Profile">
-    </a>
-    <a href="https://git.io/streak-stats">
-        <img height="180em" src="https://streak-stats.demolab.com/?user=kihyunnn&theme=blueberry&date_format=%5BY.%5Dn.j" alt="GitHub Streak">
-    </a>
-</div>
