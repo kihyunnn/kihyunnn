@@ -58,22 +58,22 @@
 <br>
 
 <div align="center">
-  <table>
+  <table cellpadding="10" cellspacing="0">
     <tr>
-      <td>
+      <td align="center">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kihyunnn&show_icons=true&theme=radical"/>
       </td>
-      <td>
+      <td align="center">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihyunnn&layout=compact&theme=dark"/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td align="center">
         <a href="https://solved.ac/mable0927/">
           <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mable0927" alt="Solved.ac Profile">
         </a>
       </td>
-      <td>
+      <td align="center">
         <a href="https://git.io/streak-stats">
           <img height="180em" src="https://streak-stats.demolab.com/?user=kihyunnn&theme=blueberry&date_format=%5BY.%5Dn.j" alt="GitHub Streak">
         </a>
