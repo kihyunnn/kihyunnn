@@ -9,10 +9,10 @@
 <br>
 <img src="https://img.shields.io/badge/Python-033963?style=flat&logo=Python&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Verilog-007FFF?style=flat&logo=verilog&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=FFFFFF">
 <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=FFFFFF">
-
-
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=FFFFFF">
 <br>
  </div>
 <br>
