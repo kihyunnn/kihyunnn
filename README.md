@@ -56,30 +56,20 @@
   - Grand Prize in SITE Union Mini i-Core Startup Competition
 
 <br>
-
 <div align="center">
-  <table cellpadding="10" cellspacing="0">
+  <table border="0">
     <tr>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kihyunnn&show_icons=true&theme=radical"/>
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kihyunnn&theme=radical" />
       </td>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihyunnn&layout=compact&theme=dark"/>
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kihyunnn&theme=radical" />
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <a href="https://solved.ac/mable0927/">
-          <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mable0927" alt="Solved.ac Profile">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://git.io/streak-stats">
-          <img height="180em" src="https://streak-stats.demolab.com/?user=kihyunnn&theme=blueberry&date_format=%5BY.%5Dn.j" alt="GitHub Streak">
-        </a>
+      <td colspan="2" align="center">
+        <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=kihyunnn&theme=radical&hide_border=true" />
       </td>
     </tr>
   </table>
 </div>
-
-
