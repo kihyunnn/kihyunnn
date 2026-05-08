@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=5000&color=8B5CF6&center=true&vCenter=true&width=1100&lines=Building+technology+that+bridges+people%2C+opportunities%2C+and+better+futures." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=5000&color=8B5CF6&center=true&vCenter=true&width=1100&lines=Building+technology+for+a+world+with+fewer+barriers." />
 
 <br>
 
