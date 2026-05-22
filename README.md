@@ -5,10 +5,10 @@
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=blur&color=0:f5d0fe,50:e9d5ff,100:c4b5fd&height=240&section=header&text=Welcome%20to%20My%20Universe&fontSize=52&fontColor=312e81&animation=twinkling&fontAlignY=50"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:6d28d9,100:a78bfa&height=240&section=header&text=Welcome%20to%20My%20Universe&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=42"
   />
   <img
-    src="https://capsule-render.vercel.app/api?type=blur&color=0:1e1b4b,50:6d28d9,100:312e81&height=240&section=header&text=Welcome%20to%20My%20Universe&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=50"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,45:6d28d9,100:a78bfa&height=240&section=header&text=Welcome%20to%20My%20Universe&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=42"
     style="width: 100%;"
     alt="Welcome to My Universe"
   />
