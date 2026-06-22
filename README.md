@@ -33,7 +33,7 @@
 <table border="0">
   <tr>
     <td align="center">
-      <img height="180em" src="https://ai-tokens.kihyunhome.kr/ai-tokens-used-space.svg?v=20260514-token-text" />
+      <img height="180em" src="https://ai-tokens.kihyunhome.kr/ai-tokens-used-space.svg?v=20260622-integrated" />
     </td>
     <td align="center">
       <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kihyunnn&theme=tokyonight" />
