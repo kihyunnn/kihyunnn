@@ -1,0 +1,69 @@
+<svg width="340" height="200" viewBox="0 0 340 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI Tokens Used Last 30 Days 15B Tokens">
+  <title>AI Tokens Used — Last 30 Days — 15B Tokens</title>
+  <defs>
+    <linearGradient id="num" x1="24" y1="0" x2="230" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEF2FF"/>
+      <stop offset="0.58" stop-color="#BF91F3"/>
+      <stop offset="1" stop-color="#70A5FD"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="70" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.052"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="nebulaA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(300 45) rotate(90) scale(64 90)">
+      <stop stop-color="#70A5FD" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#70A5FD" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebulaB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(62 172) rotate(90) scale(76 92)">
+      <stop stop-color="#BF91F3" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#BF91F3" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebulaC" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(259 206) rotate(90) scale(78 105)">
+      <stop stop-color="#38BDAE" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#38BDAE" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-40" y="-40" width="420" height="280" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="0.3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="cardClip"><rect width="340" height="200" rx="4"/></clipPath>
+    <style>
+      .font { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+      @keyframes blink { 0%,100% { opacity: .42; transform: scale(.82); } 48% { opacity: 1; transform: scale(1.16); } }
+      @keyframes sweep { 0%,58% { transform: translateX(-210px) rotate(18deg); } 100% { transform: translateX(420px) rotate(18deg); } }
+      .blink { transform-box: fill-box; transform-origin: center; animation: blink 1.35s ease-in-out infinite; }
+      .sweep { transform-box: fill-box; transform-origin: center; animation: sweep 8.5s ease-in-out infinite; }
+    </style>
+  </defs>
+  <g clip-path="url(#cardClip)">
+    <rect width="340" height="200" rx="4" fill="#1A1B27"/>
+    <rect width="340" height="200" fill="url(#nebulaA)"/>
+    <rect width="340" height="200" fill="url(#nebulaB)"/>
+    <rect width="340" height="200" fill="url(#nebulaC)"/>
+    <g opacity="0.42">
+      <circle cx="54" cy="36" r="1" fill="#FFFFFF" fill-opacity="0.56"/>
+      <circle cx="112" cy="68" r="1" fill="#70A5FD" fill-opacity="0.48"/>
+      <circle cx="252" cy="62" r="1" fill="#FFFFFF" fill-opacity="0.38"/>
+      <circle cx="292" cy="140" r="1" fill="#BF91F3" fill-opacity="0.45"/>
+      <circle cx="160" cy="164" r="1" fill="#FFFFFF" fill-opacity="0.32"/>
+      <circle cx="313" cy="36" r="1" fill="#38BDAE" fill-opacity="0.38"/>
+    </g>
+    <g filter="url(#glow)">
+      <circle cx="43" cy="42" r="1.5" fill="#DAE1F2" fill-opacity="0.82"/>
+      <circle cx="236" cy="54" r="1.5" fill="#DAE1F2" fill-opacity="0.82"/>
+      <circle cx="259" cy="104" r="1.5" fill="#DAE1F2" fill-opacity="0.82"/>
+      <circle cx="94" cy="162" r="1.5" fill="#DAE1F2" fill-opacity="0.82"/>
+      <circle cx="301" cy="127" r="1.5" fill="#DAE1F2" fill-opacity="0.32"/>
+      <circle cx="278" cy="157" r="1" fill="#DAE1F2" fill-opacity="0.28"/>
+    </g>
+    <g class="sweep"><rect x="-20" y="-140" width="72" height="520" fill="url(#shine)"/></g>
+    <rect x="0.5" y="0.5" width="339" height="199" rx="3.5" stroke="#70A5FD" stroke-opacity="0.035"/>
+  </g>
+  <g class="font">
+    <text x="24" y="37" fill="#70A5FD" font-size="13" font-weight="700" letter-spacing="1.36">AI TOKENS USED</text>
+    <text x="24" y="58" fill="#BF91F3" font-size="12" font-weight="600" letter-spacing="0.2">Last 30 Days</text>
+    <text x="24" y="144" fill="url(#num)" font-size="57" font-weight="800" letter-spacing="-3.6">15B <tspan font-size="22" font-weight="700" letter-spacing="0.4" fill="#DAE1F2" fill-opacity="0.68">Tokens</tspan></text>
+    <text x="24" y="173" fill="#DAE1F2" fill-opacity="0.56" font-size="10" font-weight="600" letter-spacing="0.2">updated 2026-07-07 KST</text>
+  </g>
+</svg>
