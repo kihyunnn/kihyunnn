@@ -33,10 +33,9 @@
 <table border="0">
   <tr>
     <td align="center">
-      <img height="180em" src="./assets/ai-tokens-used-space.svg" />
-    </td>
-    <td align="center">
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kihyunnn&theme=tokyonight" />
+      <a href="https://tokscale.ai/u/kihyunnn">
+        <img width="680" src="https://tokscale.ai/api/embed/kihyunnn/svg?template=graph" alt="Tokscale usage graph for kihyunnn" />
+      </a>
     </td>
   </tr>
   <tr>
