@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img width="100%" src="https://streak-stats.demolab.com?user=kihyunnn&theme=material-palenight&hide_border=true" />
+      <img width="100%" src="https://streak-stats.demolab.com?user=kihyunnn&theme=material-palenight&hide_border=true&v=2" />
     </td>
   </tr>
 </table>
